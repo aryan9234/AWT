@@ -1,8 +1,6 @@
-package com.nayragames.eagleeye;
+package com.ng.eagleeye;
 
 import java.awt.*;
-import java.sql.*;
-import java.awt.event.*;
 import javax.swing.*;
 
 /**

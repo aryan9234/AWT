@@ -1,4 +1,4 @@
-package com.nayragames.reflection;
+package com.ng.reflection;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

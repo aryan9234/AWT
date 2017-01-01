@@ -1,4 +1,4 @@
-package com.nayragames.techon;
+package com.ng.techon;
 
 import java.awt.*;
 import javax.swing.*;

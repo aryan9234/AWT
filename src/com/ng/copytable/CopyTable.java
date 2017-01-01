@@ -1,4 +1,4 @@
-package com.nayragames.copytable;
+package com.ng.copytable;
 
 import java.awt.*;
 import javax.swing.*;

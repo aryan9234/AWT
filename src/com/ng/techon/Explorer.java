@@ -1,7 +1,6 @@
-package com.nayragames.techon;
+package com.ng.techon;
 
 import javax.swing.*;
-import java.awt.*;
 import javax.swing.tree.*;
 import java.io.*;
 import java.awt.event.*;

@@ -1,4 +1,4 @@
-package com.nayragames.eagleeye;
+package com.ng.eagleeye;
 
 import java.awt.*;
 import javax.swing.*;

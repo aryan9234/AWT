@@ -1,4 +1,4 @@
-package com.nayragames.clock;
+package com.ng.clock;
 
 import java.awt.*;
 import java.util.Calendar;

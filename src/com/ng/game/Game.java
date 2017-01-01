@@ -1,4 +1,4 @@
-package com.nayragames.game;
+package com.ng.game;
 
 import java.awt.*;
 import javax.swing.*;

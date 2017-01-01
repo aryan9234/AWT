@@ -1,4 +1,4 @@
-package com.nayragames.encode;
+package com.ng.encode;
 
 import java.awt.*;
 import javax.swing.*;

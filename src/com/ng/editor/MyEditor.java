@@ -1,9 +1,8 @@
-package com.nayragames.editor;
+package com.ng.editor;
 
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
-import javax.swing.border.*;
 import java.io.*;
 
 /**
